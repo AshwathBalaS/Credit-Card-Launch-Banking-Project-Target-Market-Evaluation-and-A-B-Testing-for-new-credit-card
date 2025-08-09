@@ -8,5 +8,5 @@
 
 Performed EDA to evaluate Target Group and did A/B Testing using Hypothesis Tests for New Credit Card
 
-# **Project Credits - CodeBasics (This Project was a part of CodeBasics Maths and Statistics Course)**
+**Project Credits - CodeBasics (This Project was a part of CodeBasics Maths and Statistics Course)**
 
